@@ -1,0 +1,6 @@
+*.pem
+node_modules
+env
+App.egg-info
+package-lock.json
+__pycache__
